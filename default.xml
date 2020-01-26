@@ -24,6 +24,7 @@
     
     <remote name="areyoudeveloper1"
             fetch="https://github.com/areyoudeveloper1" />
+            revision="refs/heads/halium-7.1" />
 
     <default remote="aosp"
              sync-j="8"
